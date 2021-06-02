@@ -1,0 +1,48 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de notificação e Mês Notificação
+Período:2010
+"UF de notificação";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"11 Rondônia";9307;6223;2427;888;424;187;96;84;80;119;645;954;21434
+"12 Acre";3324;7723;6551;3005;1552;868;782;456;614;921;2791;5729;34316
+"13 Amazonas";533;403;402;314;380;657;720;645;377;483;857;1698;7469
+"14 Roraima";124;316;694;805;1205;1907;912;747;360;106;83;113;7372
+"15 Pará";538;819;1824;1297;1124;1024;778;1200;1075;1147;1782;2224;14832
+"16 Amapá";113;290;320;169;274;272;243;492;371;316;199;185;3244
+"17 Tocantins";1186;1390;2031;1645;1116;529;137;119;49;58;322;426;9008
+"21 Maranhão";111;131;291;274;414;441;540;1242;1003;526;326;257;5556
+"22 Piauí";190;408;864;870;1097;991;892;603;442;210;220;282;7069
+"23 Ceará";683;1252;1841;1415;2098;2074;1755;1505;1434;1731;2041;3159;20988
+"24 Rio Grande do Norte";93;90;195;279;552;859;1252;1032;705;624;624;661;6966
+"25 Paraíba";78;224;375;378;827;913;1010;678;541;397;398;342;6161
+"26 Pernambuco";279;983;2449;2589;5715;7322;6316;4002;1424;626;629;670;33004
+"27 Alagoas";396;1187;6465;8300;8258;6748;5354;3340;2112;1340;1128;541;45169
+"28 Sergipe";5;5;18;43;83;53;56;92;55;54;58;66;588
+"29 Bahia";2271;3035;7039;7336;8625;5397;3116;1738;1148;896;1385;2111;44097
+"31 Minas Gerais";11612;25683;55486;61510;42126;8388;2229;786;528;400;780;1512;211040
+"32 Espírito Santo";631;853;2947;3884;4901;2985;1699;1294;757;550;1101;1738;23340
+"33 Rio de Janeiro";1067;1641;2728;4089;5951;3528;1898;1503;974;452;855;2005;26691
+"35 São Paulo";9076;31192;62733;51834;31999;6083;1438;759;453;806;1517;1845;199735
+"41 Paraná";514;2869;10876;13244;7211;936;308;113;157;164;294;1169;37855
+"42 Santa Catarina";30;38;31;31;27;5;3;1;3;2;4;7;182
+"43 Rio Grande do Sul";31;479;2225;720;79;20;13;11;8;2;6;8;3602
+"50 Mato Grosso do Sul";10012;16646;18218;10539;4640;726;368;193;296;243;408;567;62856
+"51 Mato Grosso";13945;9452;6010;2396;1188;559;365;268;286;292;636;1182;36579
+"52 Goiás";23251;23029;18979;11938;8384;3234;1270;1208;1540;2061;2436;3534;100864
+"53 Distrito Federal";747;1992;4202;2930;3817;1010;300;154;72;91;64;92;15471
+"Total";90147;138353;218221;192722;144067;57716;33850;24265;16864;14617;21589;33077;985488
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ ncluídas notificações de indivíduos residentes no Brasil, independente de sua confirmação, exceto os descartados, pois em situações de epidemia nem sempre é possível confirmar todos os casos.
+ Para tabular os óbitos por dengue até 2012, deve-se considerar apenas os casos graves (DCC, FHD, SCD, DSA, DG) em que a evolução seja "óbito pelo agravo notificado" com critério de confirmação laboratorial e clínico-epidemiológico. A partir de 2013,
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 atualizados em 30/08/2009.
+ Dados de 2008 atualizados em 17/03/2011.
+ Dados de 2009 atualizados em 23/06/2011.
+ Dados de 2010 atualizados em 18/06/2011.
+ Dados de 2011 atualizados em 11/01/2012.
+ Dados de 2012 atualizados em 25/07/2013.
+ Dados de 2013 atualizados em 10/07/2014.
+ Data da publicação dos dados 04/02/2019.
+ 

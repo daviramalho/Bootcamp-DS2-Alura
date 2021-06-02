@@ -1,0 +1,51 @@
+DENGUE - Notificações registradas no Sistema de Informação de Agravos de Notificação - Brasil
+Casos Prováveis por UF de notificação e Mês notificação
+Período:2016
+"UF de notificação";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"11 Rondônia";1714;2273;1720;842;291;115;112;30;40;43;155;574;7909
+"12 Acre";326;779;377;228;107;69;68;46;43;42;64;101;2250
+"13 Amazonas";423;914;1328;1704;998;773;384;228;163;175;221;195;7506
+"14 Roraima";11;14;49;10;9;8;15;35;25;15;11;8;210
+"15 Pará";1258;2188;2114;1714;1108;517;401;346;262;287;267;409;10871
+"16 Amapá";90;265;411;312;205;86;72;101;92;92;58;45;1829
+"17 Tocantins";1561;2164;1452;925;842;326;131;93;55;76;149;194;7968
+"21 Maranhão";2039;4483;5780;5971;2513;1007;701;595;201;133;213;228;23864
+"22 Piauí";285;470;580;1590;1045;551;252;188;97;87;67;86;5298
+"23 Ceará";1195;2765;4562;8714;11773;7743;4814;2963;1387;1052;1682;1095;49745
+"24 Rio Grande do Norte";3279;15554;19908;6995;4859;2932;1569;818;412;218;226;275;57045
+"25 Paraíba";4252;6292;9330;6642;4313;2672;1224;350;194;310;124;66;35769
+"26 Pernambuco";16375;17690;13097;5474;3245;1959;1234;1162;781;598;538;441;62594
+"27 Alagoas";3095;3505;3939;2840;2155;1335;928;645;381;219;138;150;19330
+"28 Sergipe";431;1119;612;469;164;95;131;203;88;103;80;112;3607
+"29 Bahia";6888;20497;20898;8951;3882;1706;911;735;582;745;824;1175;67794
+"31 Minas Gerais";50392;128387;163455;125300;45594;8562;1742;1033;797;870;1124;1766;529022
+"32 Espírito Santo";10065;10880;9907;6455;2227;651;413;359;340;325;510;974;43106
+"33 Rio de Janeiro";16318;16448;17401;18421;10249;3662;1932;885;564;485;723;1039;88127
+"35 São Paulo";31429;52475;56623;38741;15159;3030;1101;608;551;786;1123;1129;202755
+"41 Paraná";8281;16401;19237;14315;2784;405;215;134;141;239;355;330;62837
+"42 Santa Catarina";311;1252;1951;1191;273;27;21;20;16;21;30;36;5149
+"43 Rio Grande do Sul";138;346;1133;1069;353;27;13;16;10;20;23;49;3197
+"50 Mato Grosso do Sul";15871;14834;9487;4706;905;230;94;109;113;110;103;184;46746
+"51 Mato Grosso";6261;6764;3728;1445;624;325;189;258;263;287;450;694;21288
+"52 Goiás";16195;29941;32389;22278;10938;4481;1879;1634;1622;2056;2651;3389;129453
+"53 Distrito Federal";1791;4742;5670;3427;2027;951;378;169;105;90;97;144;19591
+"00 Ignorado/exterior";1;8;2;2;-;-;-;-;-;-;-;-;13
+"Total";200275;363450;407140;290731;128642;44245;20924;13763;9325;9484;12006;14888;1514873
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Incluídas notificações de casos descartados.
+ As bases de dados de dengue aqui disponíveis compõem um banco único a partir de 2014, podendo haver pequenas divergências com os dados disponibilizados pelo CGARB (Coordenação Geral de Vigilância de Arboviroses-CGARB) em sua série histórica, que par
+ Para tabular os casos graves (classificação final igual a dengue com complicações, febre hemorrágica da dengue, síndrome do choque da dengue, dengue com sinais de alarme e dengue grave) é necessário considerar também o critério de confirmação (labor
+ Para o Período de 2020 o estado do Espírito Santo passou a utilizar sistema o e-SUS Vigilância em Saúde. Portanto, para os casos de Arbovirose urbanas do Espírito Santo foram considerados apenas os dados disponibilizados pelo Sinan online (dengue e
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2014 atualizados em 13/07/2015.
+ Dados de 2015 atualizados em 27/09/2016.
+ Dados de 2016 atualizados em 06/07/2017.
+ Dados de 2017 atualizados em 18/07/2018.
+ Dados de 2018 atualizados em 01/10/2019.
+ Dados de 2019 atualizados em 10/07/2020.
+ Dados de 2020 atualizados em 11/01/2021, sujeitos a revisão.
+ *Data da publicação dos dados 03/2021.
+ 
